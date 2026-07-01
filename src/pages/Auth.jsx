@@ -76,7 +76,7 @@ function Auth() {
               text-white font-semibold text-lg
               shadow-[0_25px_60px_rgba(0,0,0,0.7)]'>
                 <FcGoogle size={22}/>
-                Continue with Google baba
+                Continue with Google
 
 
               </motion.button>
